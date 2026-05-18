@@ -1,2 +1,7 @@
-# demo-capelletti-negocios-inmobiliarios
-Demo web para Capelletti Negocios Inmobiliarios — diseñada por eterlab.
+# Capelletti Negocios Inmobiliarios
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
